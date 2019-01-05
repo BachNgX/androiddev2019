@@ -9,8 +9,9 @@ Students are expected to:
 
 Student Info
 =======================
-
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Student Name:
+  * Nguyen Xuan Bach - USTHBI7-021
+  * Pham Van Duan
+  * Pham Minh Kien
+  * Tran Duc Manh
+* Project name: Twitter Client
